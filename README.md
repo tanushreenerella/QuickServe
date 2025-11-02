@@ -36,6 +36,7 @@ npm run dev
 👩‍💻 Author
 
 Tanushree Venkata Nerella
+Shambhavi Singh
 Building intelligent, user-focused systems ✨
 
 🪄 License
