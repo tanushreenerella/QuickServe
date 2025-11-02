@@ -1,0 +1,9 @@
+item_name,order_count,popularity_score,name,category,prep_time
+Coca Cola,752,100.0,Coca Cola,drink,1
+French Fries,740,98.40425531914893,French Fries,side,3
+Classic Cheeseburger,728,96.80851063829788,Classic Cheeseburger,main,8
+Onion Rings,726,96.54255319148936,Onion Rings,side,5
+Coffee,706,93.88297872340425,Coffee,drink,2
+Veggie Burger,705,93.75,Veggie Burger,main,6
+Grilled Chicken Sandwich,696,92.5531914893617,Grilled Chicken Sandwich,main,7
+Caesar Salad,679,90.29255319148936,Caesar Salad,salad,4

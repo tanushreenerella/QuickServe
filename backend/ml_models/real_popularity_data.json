@@ -1,0 +1,50 @@
+{
+  "Coca Cola": {
+    "popularity_score": 100.0,
+    "order_count": 752,
+    "category": "drink",
+    "prep_time": 1
+  },
+  "French Fries": {
+    "popularity_score": 98.4,
+    "order_count": 740,
+    "category": "side",
+    "prep_time": 3
+  },
+  "Classic Cheeseburger": {
+    "popularity_score": 96.81,
+    "order_count": 728,
+    "category": "main",
+    "prep_time": 8
+  },
+  "Onion Rings": {
+    "popularity_score": 96.54,
+    "order_count": 726,
+    "category": "side",
+    "prep_time": 5
+  },
+  "Coffee": {
+    "popularity_score": 93.88,
+    "order_count": 706,
+    "category": "drink",
+    "prep_time": 2
+  },
+  "Veggie Burger": {
+    "popularity_score": 93.75,
+    "order_count": 705,
+    "category": "main",
+    "prep_time": 6
+  },
+  "Grilled Chicken Sandwich": {
+    "popularity_score": 92.55,
+    "order_count": 696,
+    "category": "main",
+    "prep_time": 7
+  },
+  "Caesar Salad": {
+    "popularity_score": 90.29,
+    "order_count": 679,
+    "category": "salad",
+    "prep_time": 4
+  }
+}
