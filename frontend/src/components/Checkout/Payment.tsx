@@ -85,7 +85,7 @@ const Payment: React.FC = () => {
 
     const createIntent = async () => {
       try {
-        const res = await fetch("http://localhost:8000/payment/create-intent", {
+        const res = await fetch("https://quickserve-1-yonx.onrender.com/payment/create-intent", {
           method: "POST",
           headers: { "Content-Type": "application/json" },
           body: JSON.stringify({ amount: totalAmount }),
